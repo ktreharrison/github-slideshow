@@ -86,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ktreharrison/github-slideshow](https://github.com/ktreharrison/github-slideshow)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|97<br/>Tools used|12/14/23 <br/>Report generated|
+|98<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -493,9 +493,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (51)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (52)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (43)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (44)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -540,6 +540,7 @@ Full tech stack [here](/techstack.md)
 |[st](https://www.npmjs.com/st)|N/A|03/25/20|Hector Alfaro |ISC|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|03/25/20|Hector Alfaro |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|03/25/20|Hector Alfaro |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|03/25/20|Hector Alfaro |MIT|N/A|
 |[uglify](https://www.npmjs.com/uglify)|N/A|03/25/20|Hector Alfaro |MIT|N/A|
 |[watch](https://www.npmjs.com/watch)|N/A|03/25/20|Hector Alfaro |Apache-2.0|N/A|
 
