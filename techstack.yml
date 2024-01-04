@@ -1,11 +1,12 @@
 repo_name: ktreharrison/github-slideshow
-report_id: 4b4d0b52fde8a1199351a8f8b3ea05d0
+report_id: 95f85f44ece987b1d9c8aed63661d496
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:27:43+00:00'
+timestamp: '2024-01-04T14:54:30+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
-detected_tools_count: 97
+detected_tools_count: 98
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -50,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/js/reveal.js
   detection_source: node_modules/reveal.js/js/reveal.js
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -75,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -87,6 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -96,6 +103,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -108,6 +116,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -120,6 +129,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -147,6 +157,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -159,6 +170,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -184,6 +196,7 @@ tools:
   category: Data Stores
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -195,6 +208,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/test/examples/assets/beeping.txt
   detection_source: node_modules/reveal.js/test/examples/assets/beeping.txt
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -206,6 +220,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow
   detection_source: Repo Metadata
 - name: GitHub
   description: Powerful collaboration, review, and code management for open source
@@ -216,6 +231,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Collaboration & Version Control
   image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -240,6 +256,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -251,6 +268,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -263,6 +281,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -274,6 +293,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -286,6 +306,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/.travis.yml
   detection_source: node_modules/reveal.js/.travis.yml
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -299,6 +320,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -310,6 +332,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -321,6 +344,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -332,6 +356,7 @@ tools:
   category: Analytics
   sub_category: Video Marketing and Analytics
   image_url: https://img.stackshare.io/service/21344/default_6f7cae8b4ddb7a7b52b07db55f14a397f7953656.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -343,6 +368,7 @@ tools:
   category: Back Office
   sub_category: Email Services
   image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -355,6 +381,7 @@ tools:
   category: Assets and Media
   sub_category: File Conversion
   image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -364,6 +391,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8701/apt.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -372,6 +400,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -380,6 +409,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -390,6 +420,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -400,6 +431,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -409,6 +441,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/_includes/head.html
   detection_source: _includes/head.html
   last_updated_by: githubteacher
   last_updated_on: 2018-01-23 16:34:15.000000000 Z
@@ -420,6 +453,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/test/examples/assets/beeping.txt
   detection_source: node_modules/reveal.js/test/examples/assets/beeping.txt
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -432,6 +466,7 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -444,6 +479,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -456,6 +492,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow
   detection_source: Repo Metadata
 - name: Try
   description: Run a command and inspect its effects before changing your live system
@@ -465,6 +502,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shell Utilities
   image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -477,6 +515,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -486,6 +525,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -494,6 +534,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -503,6 +544,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -511,6 +553,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -523,6 +566,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -535,6 +579,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -547,6 +592,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -559,6 +605,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -571,6 +618,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -583,6 +631,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -743,6 +792,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -755,6 +805,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -766,6 +817,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -778,6 +830,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -790,6 +843,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -802,6 +856,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -814,6 +869,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -826,6 +882,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -852,6 +909,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17512/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -864,6 +922,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -876,6 +935,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -909,6 +969,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -921,6 +982,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -933,6 +995,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -945,6 +1008,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -957,6 +1021,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -969,6 +1034,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -981,6 +1047,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -993,6 +1060,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1005,6 +1073,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1017,6 +1086,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1029,6 +1099,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1041,6 +1112,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
+  detection_source: node_modules/reveal.js/package.json
+  last_updated_by: Hector Alfaro
+  last_updated_on: 2020-03-25 15:10:55.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1053,6 +1138,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1065,6 +1151,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/package.json
   detection_source: node_modules/reveal.js/package.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1076,6 +1163,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1087,6 +1175,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1097,6 +1186,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1108,6 +1198,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1119,6 +1210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/node_modules/reveal.js/bower.json
   detection_source: node_modules/reveal.js/bower.json
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-03-25 15:10:55.000000000 Z
@@ -1131,6 +1223,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Hector Alfaro
   last_updated_on: 2020-09-09 03:15:20.000000000 Z
@@ -1158,6 +1251,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/ktreharrison/github-slideshow/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: githubteacher
   last_updated_on: 2018-01-23 16:34:15.000000000 Z
